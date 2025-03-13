@@ -1,5 +1,6 @@
 # Deep Reinforcement Learning for Unsupervised Video Summarization with Determinantal point process.
-# Implement with python = 3.x
+
+## Implement with python = 3.x
 
 ## Requirement
 
@@ -15,7 +16,7 @@ tabulate
 
 ## 1. Get Started
 ```bash
-mkdir videos and put mp4 video files 
+create a folder with name 'videos' and Upload video files ( MP4 )
 ```
 ## 2. Dataset Generation
 ```bash
